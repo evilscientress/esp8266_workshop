@@ -1,1 +1,5 @@
 # EPS8266 + MQTT Workshop files
+
+
+## Boardmanger URL
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
